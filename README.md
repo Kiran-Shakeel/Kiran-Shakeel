@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kiran-Shakeel
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m interested in mobile application development and web development
 - 📫 How to reach me gmail-kiranshakeel02@gmail.com
 
 <!---
